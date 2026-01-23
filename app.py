@@ -14,7 +14,7 @@ from pathlib import Path
 
 # Page configuration
 st.set_page_config(
-    page_title="STL Weight Calculator",
+    page_title="hiiiii",
     page_icon="💎",
     layout="wide",
     initial_sidebar_state="expanded"
